@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 430" role="img" aria-label="Illustration of a university campus">
+  <rect width="1000" height="430" fill="#dceefa"/>
+  <circle cx="830" cy="75" r="43" fill="#fff2ba"/>
+  <path d="M0 325 Q260 275 510 330 T1000 300 V430 H0Z" fill="#a8cda5"/>
+  <rect x="225" y="125" width="555" height="224" fill="#e9e2d8" stroke="#645b58" stroke-width="5"/>
+  <path d="M195 127 L505 47 L810 127Z" fill="#762033" stroke="#5c1225" stroke-width="5"/>
+  <rect x="460" y="240" width="88" height="109" fill="#793c31"/>
+  <circle cx="534" cy="297" r="4" fill="#f6d799"/>
+  <g fill="#a9d0df" stroke="#5e6266" stroke-width="5">
+    <rect x="275" y="175" width="80" height="82"/><rect x="380" y="175" width="54" height="82"/>
+    <rect x="576" y="175" width="54" height="82"/><rect x="655" y="175" width="80" height="82"/>
+  </g>
+  <rect x="226" y="316" width="552" height="17" fill="#aaa19a"/>
+  <path d="M448 350 L560 350 L690 430 H315Z" fill="#e2cdbb"/>
+  <g>
+    <rect x="110" y="245" width="20" height="112" fill="#715443"/><circle cx="120" cy="230" r="70" fill="#518a60"/>
+    <rect x="870" y="245" width="20" height="112" fill="#715443"/><circle cx="880" cy="230" r="70" fill="#518a60"/>
+  </g>
+  <rect x="730" y="70" width="7" height="146" fill="#676767"/>
+  <path d="M737 75 H865 V131 H737Z" fill="#a6192e"/>
+  <text x="800" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white">UHART</text>
+  <text x="800" y="117" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="white">CONNECTICUT</text>
+</svg>
